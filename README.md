@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saurabh%20Kumar&fontSize=55&fontAlignY=38&animation=fadeIn&desc=PHP%20%7C%20Laravel%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 
