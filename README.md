@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 
-<!--
-**Saurya899/Saurya899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 PHP & Laravel Full Stack Developer | Web Developer | Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=800&lines=PHP+Developer;Laravel+Developer;Core+PHP+Expert;HTML+CSS+JavaScript;Building+Modern+Web+Applications" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💻 Passionate Full Stack Web Developer
+- 🌱 Continuously learning new web technologies and best practices
+- 🔥 Strong knowledge of PHP and Laravel Framework
+- 🎯 Experienced in building responsive and database-driven web applications
+- 📚 Comfortable with MVC Architecture, CRUD Operations, Authentication and REST APIs
+- 🎨 Create clean, responsive and user-friendly interfaces
+- ⚡ Focused on writing simple, maintainable and efficient code
