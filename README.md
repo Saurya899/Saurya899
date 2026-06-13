@@ -67,3 +67,208 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saurabh%20Kumar&fontSize=55&fontAlignY=38&animation=fadeIn&desc=PHP%20%7C%20Laravel%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+
+# 👋 Hi, I'm Saurabh Kumar
+
+### 🚀 PHP & Laravel Full Stack Developer | Web Developer | Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=PHP+Developer;Laravel+Developer;Core+PHP+Developer;HTML+CSS+JavaScript;MySQL+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate Full Stack Web Developer
+
+🚀 Specialized in PHP, Laravel, Core PHP and MySQL
+
+🎨 Creating Responsive & Modern UI using HTML, CSS, Bootstrap & JavaScript
+
+📚 Love building real-world web applications with clean architecture
+
+⚡ Always learning new technologies and improving development skills
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:saurabhkumarssp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://instagram.com/rockingstarsaurabh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/saurabh-kumar-378810272">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,sqlite,git,github,postman,vscode,npm"/>
+
+</div>
+
+---
+
+# 🚀 Currently Working On
+
+✅ Laravel Projects
+
+✅ Core PHP Applications
+
+✅ REST APIs
+
+✅ Responsive Websites
+
+✅ Admin Dashboards
+
+✅ Database Design
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saurya899&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true">
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurya899&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurya899&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Saurya899&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurya899&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💡 Development Philosophy
+
+```php
+while ($alive) {
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# 🛠️ Skills
+
+✔ PHP
+
+✔ Laravel
+
+✔ Core PHP
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript
+
+✔ Bootstrap
+
+✔ MySQL
+
+✔ SQLite
+
+✔ Git
+
+✔ GitHub
+
+✔ REST API
+
+✔ CRUD
+
+✔ Authentication
+
+✔ Responsive Design
+
+---
+
+# 📊 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saurya899&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# ✨ Fun Fact
+
+> "Great software is built one clean commit at a time."
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
